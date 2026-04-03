@@ -31,7 +31,7 @@ Key features:
 | Raspberry Pi OS Lite (64‑bit)| Debian Bullseye/Bookworm recommended        |
 | Python 3.9+                  | Pre‑installed on Raspberry Pi OS             |
 | Internet connection          | To reach Quiver API and Discord              |
-| Quiver Quantitative API key  | Free tier available at [quiverquant.com](https://quiverquant.com)|
+| Quiver Quantitative API key  | Available at [quiverquant.com](https://quiverquant.com)|
 | Discord webhook URL          | Create in your Discord server’s channel settings|
 
 ---
