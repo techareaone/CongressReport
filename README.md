@@ -1,4 +1,6 @@
-# Quiver Congress Tracker – Universal Python Service
+# Quiver CongressReport by Tradely
+
+> A [TRADELY](https://doc.tradely.dev) Project
 
 A standalone Python daemon that monitors U.S. Congress stock trades via the [Quiver Quantitative API](https://quiverquant.com) and sends real‑time notifications to a Discord channel.  
 It runs **headless** – no GUI, no display – and works on any platform where Python 3.9+ is available: Windows, macOS, Linux, Raspberry Pi, cloud VMs, etc.
